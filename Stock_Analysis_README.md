@@ -28,5 +28,3 @@ The data used for this analysis is sourced from the 'Tata Motors.csv' file. The 
 ## Conclusion
 Upon completion of the analysis, the project will provide actionable insights and potential strategies for leveraging the stock data of Tata Motors.
 
----
-This README file is created based on the analysis plan and approaches discussed in the conversation with the AI assistant. The content is tailored to provide an overview of the project and the intended analysis.
